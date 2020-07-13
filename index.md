@@ -10,19 +10,20 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- | ----------- | ------------------------------ |
-| July 7, 10am EDT, 1400 UTC | Tech Tuesday | [Kubernetes + Kubvirt + Windows](https://primetime.bluejeans.com/a2m/live-event/kpbpeuyb) | Chris Callegari | Want to migrate your Windows legacy applications to your shiny new Kubernetes infrastructure, so that you can stop maintaining two separate stacks and management tools? Thanks to Kubevirt, you can! Join us for a demo of migrating a Windows VM to running on Kubernetes using Kubevirt. |
 | July 14, 12n EDT, 1600 UTC | Tech Tuesday | [Fedora CoreOS & OKD](https://primetime.bluejeans.com/a2m/live-event/rxpjujak) | Dusty Mabe | Now that Fedora CoreOS is stable and capable of supporting the full OKD stack, it is ready to be your development environment for cloud applications. Maintainer Dusty Mabe will show off CoreOS's features, discuss the future of the OS, and explain how it's different from other versions. |
 
 ## Latest Community Central Video
 
-Ensuring that your project uses Welcoming Nomenclature, presented by Rich Bowen:
+Running Windows applications on top of Kubernetes on Windows, with Chris Callegari:
 
-{% include youtubePlayer.html id="hZuFeFuazwo" %}
+{% include youtubePlayer.html id="rOslCoZG4Vg" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| July 7, 2020 | Tech Tuesday | [Kubernetes + Kubevirt + Windows](https://www.youtube.com/watch?v=rOslCoZG4Vg) | Chris Callegari | Want to migrate your Windows legacy applications to your shiny new Kubernetes infrastructure, so that you can stop maintaining two separate stacks and management tools? Thanks to Kubevirt, you can! Join us for a demo of migrating a Windows VM to running on Kubernetes using Kubevirt. |
+| June 11, 2020 | Community Topics | [Welcoming Nomenclature](https://www.youtube.com/watch?v=hZuFeFuazwo) | Rich Bowen | There is both traditional and customary terminology that may be offensive or unwelcoming in technology today. How do you avoid inadvertently using this in your project? How do you remove it if it's already there? |
 | May 28, 2020   | Tech Thurs    | [Catching Up With Open Data Hub](https://www.youtube.com/watch?v=pyJ5ChoDW3M)                    | Anish Asthana & Chad Roberts                                              | Open Data Hub is a blueprint for building AI/ML as a service using Openshift & Ceph.  We will cover the basics, plus all of the exciting developments from the last year.  |
 | April 28, 2020 | Tech Tuesdays | [Enarx - secured, attested execution on any cloud](https://www.youtube.com/watch?v=5wrQSe-IdMI)  | Axel Simon | Encryption in transit: done. Encryption at rest: done. Encryption in use? That's what Enarx aims to solve using TEEs and by providing a practical application deployment system + hardware attestation. This demo will show basic Enarx functionality on actual hardware. |
 | April 21, 2020 | Tech Tuesdays | [Event Driven Business Automation with Kogito](https://www.youtube.com/watch?v=MLw_mDFEFKo)      | Duncan Doyle                                                              | In this demo we will use the Kogito and Quarkus cloud-native Business Automation capabilities, like processes, workflows and decision management, with an event-driven and serverless architecture to build true, event-driven, enterprise business solutions with Kafka and KNative on OpenShift.                                                                     |
