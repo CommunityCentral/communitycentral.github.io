@@ -10,18 +10,20 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- | ----------- | ------------------------------ |
-| July 14, 12n EDT, 1600 UTC | Tech Tuesday | [Fedora CoreOS & OKD](https://primetime.bluejeans.com/a2m/live-event/rxpjujak) | Dusty Mabe | Now that Fedora CoreOS is stable and capable of supporting the full OKD stack, it is ready to be your development environment for cloud applications. Maintainer Dusty Mabe will show off CoreOS's features, discuss the future of the OS, and explain how it's different from other versions. |
+
+TBD, new episodes being scheduled soon!
 
 ## Latest Community Central Video
 
-Running Windows applications on top of Kubernetes on Windows, with Chris Callegari:
+Fedora CoreOS as your cloud platform, with Dusty Mabe:
 
-{% include youtubePlayer.html id="rOslCoZG4Vg" %}
+{% include youtubePlayer.html id="ErF_0xQmxrU" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| July 14, 2020 | Tech Tuesday | [Fedora CoreOS & OKD](https://www.youtube.com/watch?v=ErF_0xQmxrU) | Dusty Mabe | Now that Fedora CoreOS is stable and capable of supporting the full OKD stack, it is ready to be your development environment for cloud applications. Maintainer Dusty Mabe will show off CoreOS's features, discuss the future of the OS, and explain how it's different from other versions. |
 | July 7, 2020 | Tech Tuesday | [Kubernetes + Kubevirt + Windows](https://www.youtube.com/watch?v=rOslCoZG4Vg) | Chris Callegari | Want to migrate your Windows legacy applications to your shiny new Kubernetes infrastructure, so that you can stop maintaining two separate stacks and management tools? Thanks to Kubevirt, you can! Join us for a demo of migrating a Windows VM to running on Kubernetes using Kubevirt. |
 | June 11, 2020 | Community Topics | [Welcoming Nomenclature](https://www.youtube.com/watch?v=hZuFeFuazwo) | Rich Bowen | There is both traditional and customary terminology that may be offensive or unwelcoming in technology today. How do you avoid inadvertently using this in your project? How do you remove it if it's already there? |
 | May 28, 2020   | Tech Thurs    | [Catching Up With Open Data Hub](https://www.youtube.com/watch?v=pyJ5ChoDW3M)                    | Anish Asthana & Chad Roberts                                              | Open Data Hub is a blueprint for building AI/ML as a service using Openshift & Ceph.  We will cover the basics, plus all of the exciting developments from the last year.  |
