@@ -10,6 +10,7 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- | ----------- | ------------------------------ |
+| | | | | | |
 
 TBD, new episodes being scheduled soon!
 
