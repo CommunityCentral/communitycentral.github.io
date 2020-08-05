@@ -10,7 +10,7 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- | ----------- | ------------------------------ |
-| Aug 6, 2020, 11:00am EDT, 1500 UTC  | Community Sessions | [Introducing Safe Paths](https://primetime.bluejeans.com/a2m/live-event/wwbpafgv) | Samuel Zimmerman, Dick Lucas | The Google/Apple Exposure Notification Framework has what is called an "Epi Program", a set of criteria with which a Health Authority can specify what will count as an "exposure". Sherif Kozman and Dick Lucas from Safe Paths will walk through the technical specification. |
+| Aug 6, 2020, 11:00am EDT, 1500 UTC  | Community Sessions | [Introducing Safe Paths](https://primetime.bluejeans.com/a2m/live-event/wwbpafgv) | Sherif Kuzman, Dick Lucas | The Google/Apple Exposure Notification Framework has what is called an "Epi Program", a set of criteria with which a Health Authority can specify what will count as an "exposure". Sherif Kozman and Dick Lucas from Safe Paths will walk through the technical specification. |
 | Aug 27, 2020, 11:00am EDT, 1500 UTC | Community Sessions | [Foundations and Trademarks](https://primetime.bluejeans.com/a2m/live-event/zptpgddh) | Mike Milinkovich, Priyanka Sharma, Shane Curcuru, Amy Marrich, Van Lindberg | Open source foundations have helped project manage trademarks and brands for 25 years.  Join our panel from 5 prominent OSS foundations to find out what trademark services they offer, and how they manage brands in their organizations |
 
 TBD, new episodes being scheduled soon!
