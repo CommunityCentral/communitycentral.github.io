@@ -10,21 +10,22 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- | ----------- | ------------------------------ |
-| Aug 6, 2020, 11:00am EDT, 1500 UTC  | Community Sessions | [Introducing Safe Paths](https://primetime.bluejeans.com/a2m/live-event/wwbpafgv) | Samuel Zimmerman, Dick Lucas | The Google/Apple Exposure Notification Framework has what is called an "Epi Program", a set of criteria with which a Health Authority can specify what will count as an "exposure". Sherif Kozman and Dick Lucas from Safe Paths will walk through the technical specification. |
-| Aug 27, 2020, 11:00am EDT, 1500 UTC | Community Sessions | [Foundations and Trademarks](https://primetime.bluejeans.com/a2m/live-event/zptpgddh) | Mike Milinkovich, Priyanka Sharma, Shane Curcuru, Amy Marrich, Van Lindberg | Open source foundations have helped project manage trademarks and brands for 25 years.  Join our panel from 5 prominent OSS foundations to find out what trademark services they offer, and how they manage brands in their organizations |
+| Aug 20, 2020, 11:00am EDT, 1500 UTC | Community Sessions | [Intelligent Data as a Service in Healthcare](https://primetime.bluejeans.com/a2m/live-event/czrvvkah) | Alan Scott | Join us to speak with the leaders of the iDAAS (Intelligent Data as a Service). iDAAS was developed as an accelerator-based framework and advanced design pattern to help healthcare partners, SIs, payers, and providers solve numerous data challenges. |
+| Aug 27, 2020, 11:00am EDT, 1500 UTC | Community Sessions | [Foundations and Trademarks](https://primetime.bluejeans.com/a2m/live-event/zptpgddh) | Mike Milinkovich, Chris Aniszczyk, Shane Curcuru, Amy Marrich, Van Lindberg | Open source foundations have helped project manage trademarks and brands for 25 years.  Join our panel from 5 prominent OSS foundations to find out what trademark services they offer, and how they manage brands in their organizations |
 
 TBD, new episodes being scheduled soon!
 
 ## Latest Community Central Video
 
-Fedora CoreOS as your cloud platform, with Dusty Mabe:
+Privacy-respecting encryption technology for doing phone-based contact tracing for COVID:
 
-{% include youtubePlayer.html id="ErF_0xQmxrU" %}
+{% include youtubePlayer.html id="fyCiM3BkS6Q" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| Aug 6, 2020  | Community Sessions | [Introducing Safe Paths](https://www.youtube.com/watch?v=fyCiM3BkS6Q.) | Samuel Zimmerman, Dick Lucas | The Google/Apple Exposure Notification Framework has what is called an "Epi Program", a set of criteria with which a Health Authority can specify what will count as an "exposure". Sherif Kozman and Dick Lucas from Safe Paths will walk through the technical specification. |
 | July 14, 2020 | Tech Tuesday | [Fedora CoreOS & OKD](https://www.youtube.com/watch?v=ErF_0xQmxrU) | Dusty Mabe | Now that Fedora CoreOS is stable and capable of supporting the full OKD stack, it is ready to be your development environment for cloud applications. Maintainer Dusty Mabe will show off CoreOS's features, discuss the future of the OS, and explain how it's different from other versions. |
 | July 7, 2020 | Tech Tuesday | [Kubernetes + Kubevirt + Windows](https://www.youtube.com/watch?v=rOslCoZG4Vg) | Chris Callegari | Want to migrate your Windows legacy applications to your shiny new Kubernetes infrastructure, so that you can stop maintaining two separate stacks and management tools? Thanks to Kubevirt, you can! Join us for a demo of migrating a Windows VM to running on Kubernetes using Kubevirt. |
 | June 11, 2020 | Community Topics | [Welcoming Nomenclature](https://www.youtube.com/watch?v=hZuFeFuazwo) | Rich Bowen | There is both traditional and customary terminology that may be offensive or unwelcoming in technology today. How do you avoid inadvertently using this in your project? How do you remove it if it's already there? |
