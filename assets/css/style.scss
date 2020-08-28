@@ -6,3 +6,12 @@
 .inner {
   max-width: 75%;
 }
+
+#header_wrap {
+  background: #212121;
+  background: -moz-linear-gradient(top, #570505, #800808);
+  background: -webkit-linear-gradient(top, #570505, #800808);
+  background: -ms-linear-gradient(top, #570505, #800808);
+  background: -o-linear-gradient(top, #570505, #800808);
+  background: linear-gradient(to top, #570505, #800808);
+}
