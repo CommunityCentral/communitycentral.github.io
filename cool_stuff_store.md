@@ -13,7 +13,11 @@ is global and Red Hat is global.  However, due to COVID restrictions, customs
 laws, and other obstacles, we cannot actually send gear to every country in the
 world the way we would like to.
 
-As of September 2020, the current list of countries we can't ship clothing to is:
+First, we use Fedex Express International for shipping, so we can only send
+items to their list of [served countries](http://www.fedex.com/sz/contact/served-countries.html).
+
+Additionally, as of September 2020, we cannot ship clothing items to the following countries
+due to COVID and/or customs restrictions:
 
 * Argentina
 * India
@@ -22,5 +26,5 @@ As of September 2020, the current list of countries we can't ship clothing to is
 * Russia
 * Ukraine
 
-Please note that this list changes monthly as laws and procedures and shipping
+Please note that this list changes as laws and procedures and shipping
 restrictions change worldwide.
