@@ -1,8 +1,10 @@
 # Community Swag and the Cool Stuff Store
 
 Merchandise, including shirts and stickers, for many open source communities are now
-available via the Red Hat Cool Stuff Store.  More projects will be added over
-the next few weeks.
+available via the [Red Hat Cool Stuff Store](https://store.ecompanystore.com/redhat),
+including [Quarkus](https://store.ecompanystore.com/redhat/Shop//#/catalog/Collections/1421-Quarkus)
+and [CentOS](https://store.ecompanystore.com/redhat/Shop//#/catalog/Collections/987-CentOS).
+More projects will be added over the next few weeks.
 
 ## Shipping Community Swag
 
