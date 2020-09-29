@@ -9,10 +9,8 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 ## Upcoming Presentations
 
 | Date   |  Series | Title | Presenter | Description |
-| ------ | ---- | ---- | ------- | --------- | ----------- | ------------------------------ |
-|        |      |      |         |           |             |                                |
-
-TBD, new episodes being scheduled soon!
+| ------ | ---- | ---- | ------- | --------- | 
+| Sep 23, 2020 11:00 EDT 1500 UTC | Community Sessions | [Revisiting ChRIS: Solutions for the Front Line of Medicine](https://primetime.bluejeans.com/a2m/live-event/dxqdegft) | Dr. Rudolph Pienaar, Boston Children's Hosital | In this talk, Dr. Pienaar will present a semi-deep dive of ChRIS--its design, growth areas, challenges, etc, as well as the collaboration with Red Hat. A previous Community Central presentation spoke more to the AI detail of this effort. In this talk the focus will be on the technical realities of bringing such solutions/efforts out of Jupyter notebooks and into working/usable solutions. |
 
 ## Latest Community Central Video
 
