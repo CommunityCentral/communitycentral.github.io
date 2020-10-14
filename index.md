@@ -9,19 +9,21 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 ## Upcoming Presentations
 
 | Date   |  Series | Title | Presenter | Description |
-| ------ | ---- | ---- | ------- | --------- | 
-| Sep 23, 2020 11:00 EDT 1500 UTC | Community Sessions | [Revisiting ChRIS: Solutions for the Front Line of Medicine](https://primetime.bluejeans.com/a2m/live-event/dxqdegft) | Dr. Rudolph Pienaar, Boston Children's Hosital | In this talk, Dr. Pienaar will present a semi-deep dive of ChRIS--its design, growth areas, challenges, etc, as well as the collaboration with Red Hat. A previous Community Central presentation spoke more to the AI detail of this effort. In this talk the focus will be on the technical realities of bringing such solutions/efforts out of Jupyter notebooks and into working/usable solutions. |
+| ------ | ---- | ---- | ------- | --------- |
+| Oct 22, 2020 11:00 EDT 1500 UTC | Community Sessions | [Creating Knative's New Steering Charter](https://primetime.bluejeans.com/a2m/live-event/xrbwrbvd) | Brenda Chan, Paul Morie | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
+
 
 ## Latest Community Central Video
 
-Open source foundations, trademarks, and branding:
+ChRIS: applying machine learning to delivering better healthcare:
 
-{% include youtubePlayer.html id="0Sj4g2aYjqk" %}
+{% include youtubePlayer.html id="L29ziwEffy4" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| Sep 23, 2020 | Community Sessions | [Revisiting ChRIS: Solutions for the Front Line of Medicine](https://www.youtube.com/watch?v=L29ziwEffy4) | Dr. Rudolph Pienaar, Boston Children's Hosital | In this talk, Dr. Pienaar will present a semi-deep dive of ChRIS--its design, growth areas, challenges, etc, as well as the collaboration with Red Hat. A previous Community Central presentation spoke more to the AI detail of this effort. In this talk the focus will be on the technical realities of bringing such solutions/efforts out of Jupyter notebooks and into working/usable solutions. |
 | Aug 27, 2020 | Community Sessions | [Foundations and Trademarks](https://www.youtube.com/watch?v=0Sj4g2aYjqk) | Mike Milinkovich, Chris Aniszczyk, Shane Curcuru, Amy Marrich, Van Lindberg | Open source foundations have helped project manage trademarks and brands for 25 years.  Join our panel from 5 prominent OSS foundations to find out what trademark services they offer, and how they manage brands in their organizations |
 | Aug 20, 2020 | Community Sessions | [Intelligent Data as a Service in Healthcare](https://www.youtube.com/watch?v=lIYPtjI7Tns) | Alan Scott | Join us to speak with the leaders of the iDAAS (Intelligent Data as a Service). iDAAS was developed as an accelerator-based framework and advanced design pattern to help healthcare partners, SIs, payers, and providers solve numerous data challenges. |
 | Aug 6, 2020  | Community Sessions | [Introducing Safe Paths](https://www.youtube.com/watch?v=fyCiM3BkS6Q.) | Sherif Kozman, Dick Lucas | The Google/Apple Exposure Notification Framework has what is called an "Epi Program", a set of criteria with which a Health Authority can specify what will count as an "exposure". Sherif Kozman and Dick Lucas from Safe Paths will walk through the technical specification. |
