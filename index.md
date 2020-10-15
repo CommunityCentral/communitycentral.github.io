@@ -10,7 +10,7 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| Oct 22, 2020 11:00 EDT 1500 UTC | Community Sessions | [Creating Knative's New Steering Charter](https://primetime.bluejeans.com/a2m/live-event/xrbwrbvd) | Brenda Chan, Paul Morie | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
+| Oct 22, 2020 11:00 EDT 1500 UTC | Community Sessions | [Creating Knative's New Steering Charter](https://primetime.bluejeans.com/a2m/live-event/xrbwrbvd) | Paul Morie, Matt Moore, Michael Behrendt | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
 
 
 ## Latest Community Central Video
