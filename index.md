@@ -10,19 +10,19 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| Oct 22, 2020 11:00 EDT 1500 UTC | Community Sessions | [Creating Knative's New Steering Charter](https://primetime.bluejeans.com/a2m/live-event/xrbwrbvd) | Paul Morie, Matt Moore, Michael Behrendt | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
-
+| Feb. 18th 11:00 EDT 1500 UTC | Community Sessions | [Surveying Your Community](https://primetime.bluejeans.com/a2m/live-event/wuwyjjyw) | Sophie Vargas, Josh Berkus | Surveys are a popular way to find out more about our widely distributed open source communities. Creating a good survey is difficult work that requires some training or experience; otherwise you end up as unenlightened after the survey as before it. Please join community experts from Red Hat and Google who will walk you through some of the fine points of creating good community surveys. |
 
 ## Latest Community Central Video
 
-ChRIS: applying machine learning to delivering better healthcare:
+Creating Knative's new Steering Committee charter:
 
-{% include youtubePlayer.html id="L29ziwEffy4" %}
+{% include youtubePlayer.html id="3xPiCZPwQ7k" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| Oct 22, 2020 | Community Sessions | [Creating Knative's New Steering Charter](https://www.youtube.com/watch?v=3xPiCZPwQ7k) | Paul Morie, Matt Moore, Michael Behrendt | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
 | Sep 23, 2020 | Community Sessions | [Revisiting ChRIS: Solutions for the Front Line of Medicine](https://www.youtube.com/watch?v=L29ziwEffy4) | Dr. Rudolph Pienaar, Boston Children's Hosital | In this talk, Dr. Pienaar will present a semi-deep dive of ChRIS--its design, growth areas, challenges, etc, as well as the collaboration with Red Hat. A previous Community Central presentation spoke more to the AI detail of this effort. In this talk the focus will be on the technical realities of bringing such solutions/efforts out of Jupyter notebooks and into working/usable solutions. |
 | Aug 27, 2020 | Community Sessions | [Foundations and Trademarks](https://www.youtube.com/watch?v=0Sj4g2aYjqk) | Mike Milinkovich, Chris Aniszczyk, Shane Curcuru, Amy Marrich, Van Lindberg | Open source foundations have helped project manage trademarks and brands for 25 years.  Join our panel from 5 prominent OSS foundations to find out what trademark services they offer, and how they manage brands in their organizations |
 | Aug 20, 2020 | Community Sessions | [Intelligent Data as a Service in Healthcare](https://www.youtube.com/watch?v=lIYPtjI7Tns) | Alan Scott | Join us to speak with the leaders of the iDAAS (Intelligent Data as a Service). iDAAS was developed as an accelerator-based framework and advanced design pattern to help healthcare partners, SIs, payers, and providers solve numerous data challenges. |
