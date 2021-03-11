@@ -10,21 +10,21 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| March 11, 2021 1400 UTC | Community Central | Connecting with SigStore | Luke Hinds | SigStore is a project with the goal of providing a public good/non-profit service to improve the open source software supply chain by easing the adoption of cryptographic software signing, backed by transparency log technologies. The project will be making a major announcement soon, and Luke Hinds will provide an overview of the project and discuss these future plans. |
 | March 18, 2021 1500 UTC | Community Central | Red Hat Arcade | Jared Sprague, Michael Clayton, Roderick Kieley, Erik Jacobs, & Derek Reese | The Red Hat Arcade is a project many years in the making. From individual colleague's open source gaming projects to Red Hat Summit keynotes, Red Hatters have a long history of contributing and building around the gaming space for educational, demo, and entertainment purposes. We felt it was important to recognize and highlight the extra nights and weekends of effort poured into the games and interactive experiences that have made so many memorable moments for both customers as well as our internal teams, and make the end results as accessible as possible. |
 
 
 ## Latest Community Central Video
 
-Surveying your community:
+Connecting with sigstore:
 
-{% include youtubePlayer.html id="_ToDcKzeXBc" %}
+{% include youtubePlayer.html id="3LKHKpcH2x8" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
-| Feb. 18th | Community Sessions | [Surveying Your Community](https://www.youtube.com/watch?v=_ToDcKzeXBc) ([slides](https://drive.google.com/file/d/1pwPvG7H1AvFq2_t4qcEYwhCS-dpbj_23/view?usp=sharing))| Sophie Vargas, Josh Berkus | Surveys are a popular way to find out more about our widely distributed open source communities. Creating a good survey is difficult work that requires some training or experience; otherwise you end up as unenlightened after the survey as before it. Please join community experts from Google and Red Hat who will walk you through some of the fine points of creating good community surveys. |
+| Mar 11, 2021 | Community Sessions | [Connecting with sigstore](https://youtu.be/3LKHKpcH2x8) | Luke Hinds, Bob Callaway | sigstore is a project with the goal of providing a public good/non-profit service to improve the open source software supply chain by easing the adoption of cryptographic software signing, backed by transparency log technologies. In this session Luke Hinds and Bob Callaway from the Red Hat Office of the CTO's Emerging Technologies team provide an overview of the project and discuss its future plans. |
+| Feb 18, 2021 | Community Sessions | [Surveying Your Community](https://www.youtube.com/watch?v=_ToDcKzeXBc) ([slides](https://drive.google.com/file/d/1pwPvG7H1AvFq2_t4qcEYwhCS-dpbj_23/view?usp=sharing))| Sophie Vargas, Josh Berkus | Surveys are a popular way to find out more about our widely distributed open source communities. Creating a good survey is difficult work that requires some training or experience; otherwise you end up as unenlightened after the survey as before it. Please join community experts from Google and Red Hat who will walk you through some of the fine points of creating good community surveys. |
 | Oct 22, 2020 | Community Sessions | [Creating Knative's New Steering Charter](https://www.youtube.com/watch?v=3xPiCZPwQ7k) | Paul Morie, Matt Moore, Michael Behrendt | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
 | Sep 23, 2020 | Community Sessions | [Revisiting ChRIS: Solutions for the Front Line of Medicine](https://www.youtube.com/watch?v=L29ziwEffy4) | Dr. Rudolph Pienaar, Boston Children's Hosital | In this talk, Dr. Pienaar will present a semi-deep dive of ChRIS--its design, growth areas, challenges, etc, as well as the collaboration with Red Hat. A previous Community Central presentation spoke more to the AI detail of this effort. In this talk the focus will be on the technical realities of bringing such solutions/efforts out of Jupyter notebooks and into working/usable solutions. |
 | Aug 27, 2020 | Community Sessions | [Foundations and Trademarks](https://www.youtube.com/watch?v=0Sj4g2aYjqk) | Mike Milinkovich, Chris Aniszczyk, Shane Curcuru, Amy Marrich, Van Lindberg | Open source foundations have helped project manage trademarks and brands for 25 years.  Join our panel from 5 prominent OSS foundations to find out what trademark services they offer, and how they manage brands in their organizations |
