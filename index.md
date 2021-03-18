@@ -10,19 +10,20 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| March 18, 2021 1500 UTC | Community Central | Red Hat Arcade | Jared Sprague, Michael Clayton, Roderick Kieley, Erik Jacobs, & Derek Reese | The Red Hat Arcade is a project many years in the making. From individual colleague's open source gaming projects to Red Hat Summit keynotes, Red Hatters have a long history of contributing and building around the gaming space for educational, demo, and entertainment purposes. We felt it was important to recognize and highlight the extra nights and weekends of effort poured into the games and interactive experiences that have made so many memorable moments for both customers as well as our internal teams, and make the end results as accessible as possible. |
+| TBD |  |  | New episodes coming soon! |
 
 
 ## Latest Community Central Video
 
 Connecting with sigstore:
 
-{% include youtubePlayer.html id="3LKHKpcH2x8" %}
+{% include youtubePlayer.html id="Il5P3uwB_xY" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| Mar 18, 2021 | Community Sessions | [Red Hat Arcade](https://youtu.be/Il5P3uwB_xY) | Jared Sprague, Roderick Kieley, Erik Jacobs, & Derek Reese | The [Red Hat Arcade](https://arcade.redhat.com) is a project many years in the making. From individual colleague’s open source gaming projects to Red Hat Summit keynotes, Red Hatters have a long history of contributing and building around the gaming space for educational, demo, and entertainment purposes. We felt it was important to recognize and highlight the extra nights and weekends of effort poured into the games and interactive experiences that have made so many memorable moments for both customers as well as our internal teams, and make the end results as accessible as possible. |
 | Mar 11, 2021 | Community Sessions | [Connecting with sigstore](https://youtu.be/3LKHKpcH2x8) | Luke Hinds, Bob Callaway | sigstore is a project with the goal of providing a public good/non-profit service to improve the open source software supply chain by easing the adoption of cryptographic software signing, backed by transparency log technologies. In this session Luke Hinds and Bob Callaway from the Red Hat Office of the CTO's Emerging Technologies team provide an overview of the project and discuss its future plans. |
 | Feb 18, 2021 | Community Sessions | [Surveying Your Community](https://www.youtube.com/watch?v=_ToDcKzeXBc) ([slides](https://drive.google.com/file/d/1pwPvG7H1AvFq2_t4qcEYwhCS-dpbj_23/view?usp=sharing))| Sophie Vargas, Josh Berkus | Surveys are a popular way to find out more about our widely distributed open source communities. Creating a good survey is difficult work that requires some training or experience; otherwise you end up as unenlightened after the survey as before it. Please join community experts from Google and Red Hat who will walk you through some of the fine points of creating good community surveys. |
 | Oct 22, 2020 | Community Sessions | [Creating Knative's New Steering Charter](https://www.youtube.com/watch?v=3xPiCZPwQ7k) | Paul Morie, Matt Moore, Michael Behrendt | The Knative Community recently adopted a new Steering charter.  The overhaul of the charter took 6 weeks of discussion, and many arguments and eventual compromises between stakeholders with different goals for the project.  Join Knative project leaders who will talk about why they changed the charter and the process of driving consensus on new governance for the project. |
