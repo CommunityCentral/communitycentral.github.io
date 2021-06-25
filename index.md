@@ -4,14 +4,15 @@ Community Central is the popular video series on the world of open source, parti
 
 Some sessions have public Q&A, and others are public videos with no Q&A.  You can [subscribe to our Youtube Channel](https://www.youtube.com/c/RedHatCommunity) to get notified as new videos go up.
 
-All sessions are scheduled to start at 1100 EDT/1500 UTC (unless otherwise indicated)!
-
 Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and [Josh Berkus](mailto:jberkus@redhat.com)
 
 ## Upcoming Presentations
 
+All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise indicated)!
+
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
+| July 1, 2021 | Community Sessions | [What does the Continuous Delivery Foundation do?](https://primetime.bluejeans.com/a2m/live-event/wauyugge) | Andrea Frittoli, Jason Hall, Vincent Demeester, Adam Kaplan | The CD Foundation supports and provides neutral ownership for the top open source continuous integration technologies, including Jenkins, Tekton, and soon Shipwright.  Join our panel of CI/CD enginners and a member of the CDF TOC to find out about the foundation, how it works, and the benefits it offers for application developers and admins. |
 | July 8, 2021 | Community Sessions | [Introducing Open Cluster Management](https://primetime.bluejeans.com/a2m/live-event/kpjhyhdf) | Gurney Buchanan, Michael Elder, Mike Ng, Jian Qiu, Yu Cao | Introducing Open Cluster Management, a community-driven project focused on multicluster and multicloud scenarios for Kubernetes apps. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and cluster and workload health management. We will introduce the project and demonstrate what you can do on Kubernetes and OKD using open cluster management. |
 | September 23, 2021 | Community Sessions | [Enforce Configuration & Security Checks with KubeLinter](https://primetime.bluejeans.com/a2m/live-event/ecgkyvcx) | Viswajith Venugopal | KubeLinter is an open source tool that analyzes Kubernetes YAML files and Helm charts, checking them against a variety of best practices, with a focus on production readiness and security. In this overview, Viswajith Venugopal will walk you through a hands-on demo of the application, showcasing a use case for local machines and CI pipeline integration, and we'll cover how to best integrate KubeLinter into your organization. |
 
