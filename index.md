@@ -2,13 +2,15 @@
 
 Community Central is the popular video series on the world of open source, particularly projects sponsored by Red Hat.  We also cover topics from the world of open source project management.
 
-Some sessions have public Q&A, and others are public videos with no Q&A.  You can [subscribe to our Youtube Channel](https://www.youtube.com/c/RedHatCommunity) to get notified as new videos go up.
+Community Central sessions are generally presented as discussion sessions, with 15-30 minutes of Q&A.  So please bring your questions!  You'll be able to ask them using the built-in Q&A tool.
+
+You can [subscribe to our Youtube Channel](https://www.youtube.com/c/RedHatCommunity) to get notified as new videos go up.
 
 Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and [Josh Berkus](mailto:jberkus@redhat.com)
 
 ## Upcoming Presentations
 
-All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise indicated)!
+All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise indicated).  They are broadcast on [BlueJeans Primetime](https://www.bluejeans.com/resources/product-video/video-introducing-bluejeans-events), which is accessible via most major browsers.
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
