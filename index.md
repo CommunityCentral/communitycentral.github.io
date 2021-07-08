@@ -14,19 +14,19 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| July 8, 2021 | Community Sessions | [Introducing Open Cluster Management](https://primetime.bluejeans.com/a2m/live-event/kpjhyhdf) | Gurney Buchanan, Michael Elder, Mike Ng, Jian Qiu, Yu Cao | Introducing Open Cluster Management, a community-driven project focused on multicluster and multicloud scenarios for Kubernetes apps. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and cluster and workload health management. We will introduce the project and demonstrate what you can do on Kubernetes and OKD using open cluster management. |
 | September 23, 2021 | Community Sessions | [Enforce Configuration & Security Checks with KubeLinter](https://primetime.bluejeans.com/a2m/live-event/ecgkyvcx) | Viswajith Venugopal | KubeLinter is an open source tool that analyzes Kubernetes YAML files and Helm charts, checking them against a variety of best practices, with a focus on production readiness and security. In this overview, Viswajith Venugopal will walk you through a hands-on demo of the application, showcasing a use case for local machines and CI pipeline integration, and we'll cover how to best integrate KubeLinter into your organization. |
 
 ## Latest Community Central Video
 
-What does the Continuous Delivery Foundation do?
+Introducing Open Cluster Management
 
-{% include youtubePlayer.html id="ytE-6p2jtSU" %}
+{% include youtubePlayer.html id="i95wASxH52M" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| July 8, 2021 | Community Sessions | [Introducing Open Cluster Management](https://youtu.be/i95wASxH52M) | Gurney Buchanan, Michael Elder, Mike Ng | Introducing Open Cluster Management, a community-driven project focused on multicluster and multicloud scenarios for Kubernetes apps. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and cluster and workload health management. We will introduce the project and demonstrate what you can do on Kubernetes and OKD using open cluster management. |
 | July 1, 2021 | Community Sessions | [What does the Continuous Delivery Foundation do?](https://youtu.be/ytE-6p2jtSU) | Andrea Frittoli, Jason Hall, Vincent Demeester, Adam Kaplan | The CD Foundation supports and provides neutral ownership for the top open source continuous integration technologies, including Jenkins, Tekton, and soon Shipwright.  Join our panel of CI/CD enginners and a member of the CDF TOC to find out about the foundation, how it works, and the benefits it offers for application developers and admins. |
 | June 17, 2021 | Community Sessions | [Revamping Fedora Community Outreach](https://youtu.be/WYqRYTrI_bE) | Mariana Balla, Sumantro Mukherjee, Marie Nordin | The Fedora Ambassador Program is over 15 years old, and there are a variety of other outreach related teams that have developed within the Fedora Project. As things evolved over the years, the Ambassador Program declined in engagement and the other teams have ebbed and flowed. The Fedora Project has been working on a Community Outreach Revamp for the last year to clarify the various roles, modernize our activities, and provide up to date resources to the Fedora Outreach teams. |
 | June 10, 2021 | Community Sessions | [Community CRMs: Data-driven Community Management](https://youtu.be/68Wy5FsORMo) | Michael Hall, Odysseas Lamtzidis, Catherine Paganini, Patrick Woods | Join this panel discussion to hear from the founders of Savannah and Orbit, two popular Community CRMs, as well as CRM power users to learn how these tools can help community professionals. We'll discuss what community CRMs are, why every project should take a data-driven approach to community management, and how these tools have transformed the day-to-day work of project maintainers. |
