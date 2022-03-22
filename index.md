@@ -16,6 +16,7 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 | ------ | ---- | ---- | ------- | --------- |
 | April 7, 2022 | Community Sessions | [Red Hat and managed cloud services](https://primetime.bluejeans.com/a2m/live-event/kkhqbekt) | Jonathan Gershater | Red Hat is offering managed cloud services for OpenShift and related services. How does Red Hat differentiate where AWS, Azure, and Google offer similar services? Join Jonathan Gershater for this look into  Red Hat's managed services future! |
 | April 21, 2022 | Community Sessions | [Performance Co-Pilot](https://primetime.bluejeans.com/a2m/live-event/adeedgvd) | Jason Beard | Jason Beard provides an overview of Performance Co-Pilot, which analyzes systems' performance metrics in real-time or using historical data, compares performance metrics between different hosts and different intervals, and observes trends and identifies abnormal patterns. |
+| May 5, 2022 | Community Sessions | [The Secret Life of RHEL 9 Beta](https://primetime.bluejeans.com/a2m/live-event/gvxyrcxp) | Chris Baker | Join this session of Community Central to find out how the RHEL business unit works with partners and customers to everyone’s mutual benefit, and how this activity led to an ad hoc community around the program. |
 
 ## Latest Community Central Video
 
