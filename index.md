@@ -14,20 +14,20 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| April 7, 2022 | Community Sessions | [Red Hat and managed cloud services](https://primetime.bluejeans.com/a2m/live-event/kkhqbekt) | Jonathan Gershater | Red Hat is offering managed cloud services for OpenShift and related services. How does Red Hat differentiate where AWS, Azure, and Google offer similar services? Join Jonathan Gershater for this look into  Red Hat's managed services future! |
-| April 21, 2022 | Community Sessions | [Performance Co-Pilot](https://primetime.bluejeans.com/a2m/live-event/adeedgvd) | Jason Beard | Jason Beard provides an overview of Performance Co-Pilot, which analyzes systems' performance metrics in real-time or using historical data, compares performance metrics between different hosts and different intervals, and observes trends and identifies abnormal patterns. |
 | May 5, 2022 | Community Sessions | [The Secret Life of RHEL 9 Beta](https://primetime.bluejeans.com/a2m/live-event/gvxyrcxp) | Chris Baker | Join this session of Community Central to find out how the RHEL business unit works with partners and customers to everyone’s mutual benefit, and how this activity led to an ad hoc community around the program. |
+| (Postponed, TBD) | Community Sessions | [Red Hat and managed cloud services](https://primetime.bluejeans.com/a2m/live-event/kkhqbekt) | Jonathan Gershater | Red Hat is offering managed cloud services for OpenShift and related services. How does Red Hat differentiate where AWS, Azure, and Google offer similar services? Join Jonathan Gershater for this look into  Red Hat's managed services future! |
 
 ## Latest Community Central Video
 
-Enforce Configuration & Security Checks with KubeLinter
+Performance Co-Pilot
 
-{% include youtubePlayer.html id="485fplXUWyM" %}
+{% include youtubePlayer.html id="wC0l7aRXVcU" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| April 21, 2022 | Community Sessions | [Performance Co-Pilot](https://youtu.be/wC0l7aRXVcU) | Jason Beard & Andreas Gerstmayr | An overview of Performance Co-Pilot, which analyzes systems' performance metrics in real-time or using historical data, compares performance metrics between different hosts and different intervals, and observes trends and identifies abnormal patterns. |
 | September 23, 2021 | Community Sessions | [Enforce Configuration & Security Checks with KubeLinter](https://youtu.be/485fplXUWyM) | Viswajith Venugopal | KubeLinter is an open source tool that analyzes Kubernetes YAML files and Helm charts, checking them against a variety of best practices, with a focus on production readiness and security. In this overview, Viswajith Venugopal will walk you through a hands-on demo of the application, showcasing a use case for local machines and CI pipeline integration, and we'll cover how to best integrate KubeLinter into your organization. |
 | July 8, 2021 | Community Sessions | [Introducing Open Cluster Management](https://youtu.be/i95wASxH52M) | Gurney Buchanan, Michael Elder, Mike Ng | Introducing Open Cluster Management, a community-driven project focused on multicluster and multicloud scenarios for Kubernetes apps. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and cluster and workload health management. We will introduce the project and demonstrate what you can do on Kubernetes and OKD using open cluster management. |
 | July 1, 2021 | Community Sessions | [What does the Continuous Delivery Foundation do?](https://youtu.be/ytE-6p2jtSU) | Andrea Frittoli, Jason Hall, Vincent Demeester, Adam Kaplan | The CD Foundation supports and provides neutral ownership for the top open source continuous integration technologies, including Jenkins, Tekton, and soon Shipwright.  Join our panel of CI/CD enginners and a member of the CDF TOC to find out about the foundation, how it works, and the benefits it offers for application developers and admins. |
