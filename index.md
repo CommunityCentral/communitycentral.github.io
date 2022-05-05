@@ -14,7 +14,6 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| May 5, 2022 | Community Sessions | [The Secret Life of RHEL 9 Beta](https://primetime.bluejeans.com/a2m/live-event/gvxyrcxp) | Chris Baker | Join this session of Community Central to find out how the RHEL business unit works with partners and customers to everyone’s mutual benefit, and how this activity led to an ad hoc community around the program. |
 | May 19, 2022 | Community Sessions | [Red Hat and managed cloud services](https://primetime.bluejeans.com/a2m/live-event/pdjgjvaz) | Jonathan Gershater & Jennfer Vargas | Red Hat is offering managed cloud services for OpenShift and related services. How does Red Hat differentiate where AWS, Azure, and Google offer similar services? Join Jonathan Gershater and Jennifer Vargas for this look into  Red Hat's managed services future! |
 
 ## Latest Community Central Video
