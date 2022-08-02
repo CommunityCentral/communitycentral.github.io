@@ -14,7 +14,7 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| May 19, 2022 | Community Sessions | [Red Hat and managed cloud services](https://primetime.bluejeans.com/a2m/live-event/pdjgjvaz) | Jonathan Gershater & Jennfer Vargas | Red Hat is offering managed cloud services for OpenShift and related services. How does Red Hat differentiate where AWS, Azure, and Google offer similar services? Join Jonathan Gershater and Jennifer Vargas for this look into  Red Hat's managed services future! |
+| August 4, 2022 | Community Sessions | [Toolbx: Developing on and troubleshooting emerging OSes](https://primetime.bluejeans.com/a2m/live-event/hsxywkqv) | Debarshi Ray | Toolbx is a tool that allows the use of containerized command-line environments.  It's shipped by default on Fedora CoreOS, Silverblue, and Workstation, and is included in RHEL 8.5 onwards.  Toolbx is very useful on OSTree-based OSes like CoreOS and Silverblue, which discourage the installation of software on the host, and don’t package managers like DNF.  Debarshi Ray, the author of Toolbx, will talk about how it was conceived, and show how developers and sysadmins on emerging OSes can leverage it to solve their problems. |
 
 ## Latest Community Central Video
 
