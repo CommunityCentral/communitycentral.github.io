@@ -14,7 +14,7 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| August 24, 2022 | Community Sessions | Announcement coming soon! |
+| August 25, 2022 | Community Sessions | [Introduction to the OptaPlanner AI constraint solver](https://primetime.bluejeans.com/a2m/live-event/grurbjbd) | Anna Dupliak | Automate your business decisions in Java with Artificial Intelligence algorithms to improve your organization’s schedules, operations and processes. Optimize results. Find the best solution with hard and soft constraints. In this Community Central, Anna Dupliak will demonstrate OptaPlanner, an open source framework in Java that is easy to integrate with Quarkus, and that can automate these kinds of routines. |
 
 ## Latest Community Central Video
 
