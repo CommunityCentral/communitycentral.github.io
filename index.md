@@ -14,7 +14,7 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| August 25, 2022 | Community Sessions | [Introduction to the OptaPlanner AI constraint solver](https://primetime.bluejeans.com/a2m/live-event/grurbjbd) | Anna Dupliak | Automate your business decisions in Java with Artificial Intelligence algorithms to improve your organization’s schedules, operations and processes. Optimize results. Find the best solution with hard and soft constraints. In this Community Central, Anna Dupliak will demonstrate OptaPlanner, an open source framework in Java that is easy to integrate with Quarkus, and that can automate these kinds of routines. |
+| TBD| Community Sessions | Coming soon! |
 
 ## Latest Community Central Video
 
@@ -26,6 +26,7 @@ Toolbx: Developing on and troubleshooting emerging OSes
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| August 25, 2022 | Community Sessions | [Introduction to the OptaPlanner AI constraint solver](https://youtu.be/A-TyjsHJTNM) | Anna Dupliak | Automate your business decisions in Java with Artificial Intelligence algorithms to improve your organization’s schedules, operations and processes. Optimize results. Find the best solution with hard and soft constraints. In this Community Central, Anna Dupliak will demonstrate OptaPlanner, an open source framework in Java that is easy to integrate with Quarkus, and that can automate these kinds of routines. |
 | August 4, 2022 | Community Sessions | [Toolbx: Developing on and troubleshooting emerging OSes](https://youtu.be/ZTjQQvJtPZ0) | Debarshi Ray | Toolbx is a tool that allows the use of containerized command-line environments.  It's shipped by default on Fedora CoreOS, Silverblue, and Workstation, and is included in RHEL 8.5 onwards.  Toolbx is very useful on OSTree-based OSes like CoreOS and Silverblue, which discourage the installation of software on the host, and don’t package managers like DNF.  Debarshi Ray, the author of Toolbx, will talk about how it was conceived, and show how developers and sysadmins on emerging OSes can leverage it to solve their problems. |
 | April 21, 2022 | Community Sessions | [Performance Co-Pilot](https://youtu.be/wC0l7aRXVcU) | Jason Beard & Andreas Gerstmayr | An overview of Performance Co-Pilot, which analyzes systems' performance metrics in real-time or using historical data, compares performance metrics between different hosts and different intervals, and observes trends and identifies abnormal patterns. |
 | September 23, 2021 | Community Sessions | [Enforce Configuration & Security Checks with KubeLinter](https://youtu.be/485fplXUWyM) | Viswajith Venugopal | KubeLinter is an open source tool that analyzes Kubernetes YAML files and Helm charts, checking them against a variety of best practices, with a focus on production readiness and security. In this overview, Viswajith Venugopal will walk you through a hands-on demo of the application, showcasing a use case for local machines and CI pipeline integration, and we'll cover how to best integrate KubeLinter into your organization. |
