@@ -14,7 +14,7 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| TBD| Community Sessions | Coming soon! |
+| October 20, 2022 | Community Sessions | [Packit: Integrate Projects in Fedora & CentOS Stream](https://primetime.bluejeans.com/a2m/live-event/fchwufvh) | Tomas Tomecek & Frantisek Lachman | [Packit](https://packit.dev/) is here to help you with RPM builds and running tests on Red Hat's operating systems. It's a GitHub app that you can install in your upstream repository and get RPM builds for new pull requests, commits and releases. But that's just the beginning - Packit can also save you time with maintaining your packages. In this session, we are going to showcase the features of Packit, explain Fedora's development workflow briefly and describe how easy it is to use Packit for projects that are packaged as RPMs.|
 
 ## Latest Community Central Video
 
