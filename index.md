@@ -14,18 +14,19 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| October 20, 2022 | Community Sessions | [Packit: Integrate Projects in Fedora & CentOS Stream](https://primetime.bluejeans.com/a2m/live-event/fchwufvh) | Tomas Tomecek & Frantisek Lachman | [Packit](https://packit.dev/) is here to help you with RPM builds and running tests on Red Hat's operating systems. It's a GitHub app that you can install in your upstream repository and get RPM builds for new pull requests, commits and releases. But that's just the beginning - Packit can also save you time with maintaining your packages. In this session, we are going to showcase the features of Packit, explain Fedora's development workflow briefly and describe how easy it is to use Packit for projects that are packaged as RPMs.|
+| TBD | Community Sessions | New session coming soon | Check back for more details! |
 
 ## Latest Community Central Video
 
 Toolbx: Developing on and troubleshooting emerging OSes
 
-{% include youtubePlayer.html id="ZTjQQvJtPZ0" %}
+{% include youtubePlayer.html id="n8KE5A35zKk" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| October 27, 2022 | Community Sessions | [Packit: Integrate Projects in Fedora & CentOS Stream](https://youtu.be/n8KE5A35zKk) | Tomas Tomecek & Frantisek Lachman | [Packit](https://packit.dev/) is here to help you with RPM builds and running tests on Red Hat's operating systems. It's a GitHub app that you can install in your upstream repository and get RPM builds for new pull requests, commits and releases. But that's just the beginning - Packit can also save you time with maintaining your packages. In this session, we are going to showcase the features of Packit, explain Fedora's development workflow briefly and describe how easy it is to use Packit for projects that are packaged as RPMs.|
 | August 25, 2022 | Community Sessions | [Introduction to the OptaPlanner AI constraint solver](https://youtu.be/A-TyjsHJTNM) | Anna Dupliak | Automate your business decisions in Java with Artificial Intelligence algorithms to improve your organization’s schedules, operations and processes. Optimize results. Find the best solution with hard and soft constraints. In this Community Central, Anna Dupliak will demonstrate OptaPlanner, an open source framework in Java that is easy to integrate with Quarkus, and that can automate these kinds of routines. |
 | August 4, 2022 | Community Sessions | [Toolbx: Developing on and troubleshooting emerging OSes](https://youtu.be/ZTjQQvJtPZ0) | Debarshi Ray | Toolbx is a tool that allows the use of containerized command-line environments.  It's shipped by default on Fedora CoreOS, Silverblue, and Workstation, and is included in RHEL 8.5 onwards.  Toolbx is very useful on OSTree-based OSes like CoreOS and Silverblue, which discourage the installation of software on the host, and don’t package managers like DNF.  Debarshi Ray, the author of Toolbx, will talk about how it was conceived, and show how developers and sysadmins on emerging OSes can leverage it to solve their problems. |
 | April 21, 2022 | Community Sessions | [Performance Co-Pilot](https://youtu.be/wC0l7aRXVcU) | Jason Beard & Andreas Gerstmayr | An overview of Performance Co-Pilot, which analyzes systems' performance metrics in real-time or using historical data, compares performance metrics between different hosts and different intervals, and observes trends and identifies abnormal patterns. |
