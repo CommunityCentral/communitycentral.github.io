@@ -10,11 +10,11 @@ Want to be on our show?  Contact [Brian Profitt](mailto:bprofitt@redhat.com) and
 
 ## Upcoming Presentations
 
-All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise indicated).  They are broadcast on [BlueJeans Primetime](https://www.bluejeans.com/resources/product-video/video-introducing-bluejeans-events), which is accessible via most major browsers.
+All sessions are scheduled to start at **1100 EST / 1600 UTC** (unless otherwise indicated).  They are broadcast on [BlueJeans Primetime](https://www.bluejeans.com/resources/product-video/video-introducing-bluejeans-events), which is accessible via most major browsers.
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| TBD | Community Sessions | New session coming soon | Check back for more details! |
+| December 8, 2022 | Community Sessions | [Writing reusable GitHub Action for Testing Farm workflows](https://primetime.bluejeans.com/a2m/live-event/gtvfyqyh) | In this episode of Community Central, join host Brian Proffitt and guest Petr Hracek to find out how to write a GitHub Action that triggers tests on the Testing Farm environment, how can be the action integrated into your GitHub project, and how can you benefit from the testing-farm-as-github-action that is already available on the GitHub Marketplace. |
 
 ## Latest Community Central Video
 
