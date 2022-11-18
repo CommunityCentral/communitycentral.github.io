@@ -14,7 +14,7 @@ All sessions are scheduled to start at **1100 EST / 1600 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| December 8, 2022 | Community Sessions | [Writing reusable GitHub Action for Testing Farm workflows](https://primetime.bluejeans.com/a2m/live-event/gtvfyqyh) | In this episode of Community Central, join host Brian Proffitt and guest Petr Hracek to find out how to write a GitHub Action that triggers tests on the Testing Farm environment, how can be the action integrated into your GitHub project, and how can you benefit from the testing-farm-as-github-action that is already available on the GitHub Marketplace. |
+| December 8, 2022 | Community Sessions | [Writing reusable GitHub Action for Testing Farm workflows](https://primetime.bluejeans.com/a2m/live-event/gtvfyqyh) | Petr Hracek | In this episode of Community Central, join host Brian Proffitt and guest Petr Hracek to find out how to write a GitHub Action that triggers tests on the Testing Farm environment, how can be the action integrated into your GitHub project, and how can you benefit from the testing-farm-as-github-action that is already available on the GitHub Marketplace. |
 
 ## Latest Community Central Video
 
