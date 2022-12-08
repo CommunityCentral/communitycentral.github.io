@@ -14,18 +14,19 @@ All sessions are scheduled to start at **1100 EST / 1600 UTC** (unless otherwise
 
 | Date   |  Series | Title | Presenter | Description |
 | ------ | ---- | ---- | ------- | --------- |
-| December 8, 2022 | Community Sessions | [Writing reusable GitHub Action for Testing Farm workflows](https://primetime.bluejeans.com/a2m/live-event/gtvfyqyh) | Petr Hracek | In this episode of Community Central, join host Brian Proffitt and guest Petr Hracek to find out how to write a GitHub Action that triggers tests on the Testing Farm environment, how can be the action integrated into your GitHub project, and how can you benefit from the testing-farm-as-github-action that is already available on the GitHub Marketplace. |
+| TBD | Community Sessions | Stay tuned for Season 9 of Community central, Coming in 2023! | Petr Hracek |  |
 
 ## Latest Community Central Video
 
-Toolbx: Developing on and troubleshooting emerging OSes
+Writing reusable GitHub Action for Testing Farm workflows
 
-{% include youtubePlayer.html id="n8KE5A35zKk" %}
+{% include youtubePlayer.html id="XaIePzWyIpY" %}
 
 ## Past Videos
 
 | Date | Series | Title | Speaker | Description |
 | ------ | ------- | ------------ | ------------ | -------------------------------- |
+| December 8, 2022 | Community Sessions | [Writing reusable GitHub Action for Testing Farm workflows]([https://primetime.bluejeans.com/a2m/live-event/gtvfyqyh](https://youtu.be/XaIePzWyIpY)) | Petr Hracek | In this episode of Community Central, join host Brian Proffitt and guest Petr Hracek to find out how to write a GitHub Action that triggers tests on the Testing Farm environment, how can be the action integrated into your GitHub project, and how can you benefit from the testing-farm-as-github-action that is already available on the GitHub Marketplace. |
 | October 27, 2022 | Community Sessions | [Packit: Integrate Projects in Fedora & CentOS Stream](https://youtu.be/n8KE5A35zKk) | Tomas Tomecek & Frantisek Lachman | [Packit](https://packit.dev/) is here to help you with RPM builds and running tests on Red Hat's operating systems. It's a GitHub app that you can install in your upstream repository and get RPM builds for new pull requests, commits and releases. But that's just the beginning - Packit can also save you time with maintaining your packages. In this session, we are going to showcase the features of Packit, explain Fedora's development workflow briefly and describe how easy it is to use Packit for projects that are packaged as RPMs.|
 | August 25, 2022 | Community Sessions | [Introduction to the OptaPlanner AI constraint solver](https://youtu.be/A-TyjsHJTNM) | Anna Dupliak | Automate your business decisions in Java with Artificial Intelligence algorithms to improve your organization’s schedules, operations and processes. Optimize results. Find the best solution with hard and soft constraints. In this Community Central, Anna Dupliak will demonstrate OptaPlanner, an open source framework in Java that is easy to integrate with Quarkus, and that can automate these kinds of routines. |
 | August 4, 2022 | Community Sessions | [Toolbx: Developing on and troubleshooting emerging OSes](https://youtu.be/ZTjQQvJtPZ0) | Debarshi Ray | Toolbx is a tool that allows the use of containerized command-line environments.  It's shipped by default on Fedora CoreOS, Silverblue, and Workstation, and is included in RHEL 8.5 onwards.  Toolbx is very useful on OSTree-based OSes like CoreOS and Silverblue, which discourage the installation of software on the host, and don’t package managers like DNF.  Debarshi Ray, the author of Toolbx, will talk about how it was conceived, and show how developers and sysadmins on emerging OSes can leverage it to solve their problems. |
