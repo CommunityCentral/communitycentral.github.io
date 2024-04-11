@@ -18,9 +18,9 @@ All sessions are scheduled to start at **1100 EDT / 1500 UTC** (unless otherwise
 
 ## Latest Community Central Video
 
-Writing reusable GitHub Action for Testing Farm workflows
+Join It or Leave It? Key considerations for evaluating communities
 
-{% include youtubePlayer.html id="XaIePzWyIpY" %}
+{% include youtubePlayer.html id="zmxC8enDrdA" %}
 
 ## Past Videos
 
